@@ -5,7 +5,7 @@ Blade Drake
 155443
 
 ## My github username is:
-blade
+therealestblade
 
 ## I have installed the software on my computer as a part of the exercise
 I haven't installed the software due to incompatibility with my Chromebook. Are there any alternatives for me to use?
